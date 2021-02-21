@@ -1,3 +1,18 @@
+# Youtao Lu
+
+Sorry! This page is still under construction. For my information please email youtao_lu@brown.edu
+
+## About
+I am a Ph.D. candidate in the department of Cognitive, Linguistic and Psychological Sciences (CLPS) at Brown University. 
+
+While I am interested in many aspects of human language, I am most intrigued to investigate the "phonology - lexicon - processing" chain. Here is my intuition: the phonological system of a language could shape its lexicon as a collection of sound-meaning mappings, and the distributional features of the lexicon could influence how adults process the words and how young kids learn the words. 
+
+My current project is about the distribution of homophones ("knight" and "night") in English, Mandarin and Japanese, and how native speakers of these languages resolve such ambiguity in speech. You can find more research ideas I want to pursue in "Research".
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/YoutaoLu/YoutaoLu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
